@@ -1,5 +1,5 @@
 # Github Lines of Code
-> This is a simple grabber written in Python which helps you count Lines of Code from Github Repositories
+> This is a simple script written in Python which helps you count Lines of Code from Github Repositories
 > 
 ## General info
 A simple script to count Lines of Code in a Github Repositorie, without the need to log in or user API Tokens. 
